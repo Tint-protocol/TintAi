@@ -1,0 +1,7 @@
+{
+  "name": "TintAI - Sovereign Trading Assistant",
+  "description": "TintAI is a professional trading assistant by TintDAO, specialized in technical analysis and chart pattern recognition within the TintEcosystem.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
